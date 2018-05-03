@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ClassSubscriberPattern")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ClassSubscriberPattern")> 
-<Assembly: AssemblyCopyright("Copyright ©  2018")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("ClassSubscriberPattern")>
+<Assembly: AssemblyDescription("Subscriber Pattern Template")>
+<Assembly: AssemblyCompany("SpydazWebAI")>
+<Assembly: AssemblyProduct("Class - SubscriberPattern Template")>
+<Assembly: AssemblyCopyright("SpydazWebAI Copyright ©  2018")>
+<Assembly: AssemblyTrademark("SpydazWebAI TM ©  2018")>
 
 <Assembly: ComVisible(False)>
 
